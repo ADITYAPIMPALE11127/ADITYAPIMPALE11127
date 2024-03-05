@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityapimpale11127&label=Profile%20views&color=0e75b6&style=flat" alt="adityapimpale11127" /> </p>
 
-- 👨‍💻 All of my projects are available at [aditya-pimpale-portfolio.wuaze.com]
+- 👨‍💻 All of my projects are available at [[aditya-pimpale-portfolio.wuaze.com]]
 
 - 🌱 I’m currently learning **React and Java**
 
