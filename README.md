@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at aditya-pimpale-portfolio.wuaze.com
 
-- 🌱 I’m currently learning **React and Python**
+- 🌱 I’m currently learning **React, java and Python**
 
 - 📫 How to reach me **pimpaleaditya2@gmail.com**
 
