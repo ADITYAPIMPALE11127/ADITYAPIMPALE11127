@@ -25,9 +25,7 @@
   <a href="https://linkedin.com/in/aditya-pimpale-40a09b214" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://linktr.ee/AdityaPimpale411" target="_blank">
-    <img src="https://cdn.brandfetch.io/id_tNIm05N/w/400/h/400/theme/dark/icon.png" alt="Linktree" height="30" width="40" />
-  </a>
+<a href="https://linktr.ee/AdityaPimpale411" target="blank"><img align="center" src="https://cdn.brandfetch.io/id_tNIm05N/w/400/h/400/theme/dark/icon.png?c=1bx1743064367135id64Mup7acvQzcIzXk&t=1667559949507" alt="AdityaPimpale411" height="30" width="40" /></a>
 </p>
 
 ---
