@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, Java and C**
 
-- 👯 I’m looking to collaborate on **React Native Mobile Apps**
+- 👯 I’m looking to collaborate on **React Web Apps & React Native Mobile Apps**
 
 - 👨‍💻 All of my projects are available at [https://aditya-pimpale-portfolio.vercel.app/](https://aditya-pimpale-portfolio.vercel.app/)
 
