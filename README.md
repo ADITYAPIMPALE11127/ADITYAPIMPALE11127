@@ -5,17 +5,12 @@
   <img src="https://komarev.com/ghpvc/?username=adityapimpale11127&label=Profile%20views&color=0e75b6&style=flat" alt="adityapimpale11127" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=adityapimpale11127" alt="adityapimpale11127" />
-  </a>
-</p>
 
 - 🌱 I’m currently learning **Python for DSA, AI/ML, and Data Science**  
-- 👯 I’m looking to collaborate on **React Web Apps & React Native Mobile Apps**  
+- 👯 I’m looking to collaborate on **React Web Apps**  
 - 👨‍💻 All of my projects are available at [Portfolio](https://aditya-pimpale-portfolio.vercel.app/)  
 - 💬 Ask me about **React, JavaScript, Python**  
-- 📫 How to reach me: **pimpaleaditya2@gmail.com**  
+- 📫 How to reach me: **pimpaleaditya2@gmail.com or adityaa12144@gmail.com**  
 - 📄 Know about my experiences: [Resume](https://aditya-resume-2025.tiiny.site/)  
 
 ---
@@ -24,9 +19,6 @@
 <p align="left">
   <a href="https://linkedin.com/in/aditya-pimpale-40a09b214" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://linktr.ee/AdityaPimpale411" target="_blank">
-    <img src="https://cdn.brandfetch.io/id_tNIm05N/w/400/h/400/theme/dark/icon.png?c=1bx1743064367135id64Mup7acvQzcIzXk&t=1667559949507" alt="Linktree" height="30" width="40" />
   </a>
 </p>
 
